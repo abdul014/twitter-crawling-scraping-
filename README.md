@@ -46,7 +46,7 @@ Proyek ini membahas proses **pengumpulan dan akuisisi data digital**, khususnya 
 Dataset yang dihasilkan digunakan sebagai dasar analisis NLP dan eksplorasi text mining.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*b4GiiiIgxhfd3pUd86ZUuw.png" width="600">
+  <img src="https://buffer.com/resources/content/images/resources/wp-content/uploads/2015/11/Twitter-search-operators.png" width="600">
 </p>
 
 ---
@@ -81,10 +81,6 @@ Proyek ini dibangun menggunakan teknologi berikut:
 Akuisisi data teks merupakan proses pengumpulan informasi berbasis teks dari berbagai sumber:
 - Data primer: survei, eksperimen, crawling, scraping  
 - Data sekunder: sumber pihak ketiga  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdul014/twitter-crawling-scraping-/main/images/data-acquisition.png" width="600">
-</p>
 
 ---
 
