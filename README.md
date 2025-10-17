@@ -1,25 +1,39 @@
-<h1 align="center">🐦 Twitter Crawling & Scraping</h1>
+<h2 align="center">📑 <b>Daftar Isi</b></h2>
 
 <p align="center">
-  <i>Eksperimen akuisisi data digital melalui web scraping dan API Twitter menggunakan Python.</i><br>
-  <b>By Abd Rahman | EraNusaData | Magister Statistika & Sains Data, IPB University</b>
+  <a href="#-deskripsi-proyek">📘 Deskripsi Proyek</a> •
+  <a href="#-struktur-dataset">🧩 Struktur Dataset</a> •
+  <a href="#️-teknologi--tools">⚙️ Teknologi & Tools</a> •
+  <a href="#-materi-pembahasan">🔍 Materi Pembahasan</a> •
+  <a href="#-jalankan-proyek">🚀 Jalankan Proyek</a> •
+  <a href="#-disusun-oleh">✍️ Disusun Oleh</a>
 </p>
 
 ---
 
-## 📚 Daftar Isi
-- [📘 Deskripsi Proyek](#-deskripsi-proyek)
-- [🧩 Struktur Dataset](#-struktur-dataset)
-- [⚙️ Teknologi & Tools](#️-teknologi--tools)
-- [🔍 Materi Pembahasan](#-materi-pembahasan)
-  - [1️⃣ Akuisisi Data Teks](#1️⃣-akuisisi-data-teks)
-  - [2️⃣ Crawling vs Scraping](#2️⃣-crawling-vs-scraping)
-  - [3️⃣ Web Scraping Ethics](#3️⃣-web-scraping-ethics)
-  - [4️⃣ Twitter Data Crawling](#4️⃣-twitter-data-crawling)
-  - [5️⃣ Query Operator Twitter](#5️⃣-query-operator-twitter)
-  - [6️⃣ Streaming Twitter Data](#6️⃣-streaming-twitter-data)
-- [🚀 Jalankan Proyek](#-jalankan-proyek)
-- [✍️ Disusun Oleh](#-disusun-oleh)
+### 🔍 Materi Pembahasan
+<div align="center">
+
+| 🔢 No | 📖 Topik Pembahasan | 🔗 Link |
+|:--:|:--|:--|
+| 1️⃣ | **Akuisisi Data Teks** | [Lihat](#1️⃣-akuisisi-data-teks) |
+| 2️⃣ | **Crawling vs Scraping** | [Lihat](#2️⃣-crawling-vs-scraping) |
+| 3️⃣ | **Web Scraping Ethics** | [Lihat](#3️⃣-web-scraping-ethics) |
+| 4️⃣ | **Twitter Data Crawling** | [Lihat](#4️⃣-twitter-data-crawling) |
+| 5️⃣ | **Query Operator Twitter** | [Lihat](#5️⃣-query-operator-twitter) |
+| 6️⃣ | **Streaming Twitter Data** | [Lihat](#6️⃣-streaming-twitter-data) |
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tweepy-API_Twitter-lightblue?logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-WebScraping-green?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-DataFrame-yellow?logo=pandas&logoColor=white"/>
+</p>
+
 
 ---
 
