@@ -96,7 +96,7 @@ Akuisisi data teks merupakan proses pengumpulan informasi berbasis teks dari ber
 | Bersifat luas dan legal (robots.txt) | Rentan isu legal jika tanpa izin |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdul014/twitter-crawling-scraping-/main/images/crawling-vs-scraping.png" width="600">
+  <img src="https://i.pinimg.com/originals/68/3e/d4/683ed4ad7a71f4e20789b7d1b7d69ba0.jpg" width="600">
 </p>
 
 ---
