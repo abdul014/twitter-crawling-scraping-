@@ -157,7 +157,6 @@ Untuk mencoba eksperimen ini secara langsung:
 
 ## ✍️ Disusun Oleh
 **Abd Rahman**  
-_From Komunitas EraNusaData_  
 Magister Statistika dan Sains Data, IPB University  
 
 📚 [GitHub](https://github.com/abdul014) | [LinkedIn](https://linkedin.com/in/abd-rahman-ysf)
